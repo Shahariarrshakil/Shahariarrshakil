@@ -2,7 +2,7 @@
 <h3 align="center">A passionate learner and developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **E-Learning Platform & AI Voice Bot Projects**
-- 🌱 I’m currently learning **AI Automation, Voice Agents & Guitar 🎸**
+- 🌱 I’m currently learning **AI Automation, Voice Agents & React**
 - 👨‍💻 All of my projects are available at [https://github.com/Shahariarrshakil](https://github.com/Shahariarrshakil)
 - 💬 Ask me about **Web Development, Automation, and AI Bot Building**
 - 📫 How to reach me: **shahariarshakilcmt@gmail.com**
